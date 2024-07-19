@@ -1,0 +1,2 @@
+dot (.) -> start from the current line
+dot dot ( .. ) -> go out of the current line

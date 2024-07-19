@@ -1,0 +1,12 @@
+Folder PATH listing
+Volume serial number is FC66-9340
+C:.
+¦   man_woman_camera_child.html
+¦   rewind.html
+¦   tree.txt
+¦   
++---images
+        1.jpg
+        2.jpg
+        3.jpg
+        
